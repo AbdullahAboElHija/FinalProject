@@ -11,6 +11,11 @@ A computer vision application for detecting helmet usage on construction sites, 
 - Streamlit-based interactive dashboard
 - Optimized for construction site monitoring
 
+## 📘 User Manual
+
+For a detailed step-by-step guide on using the application:  
+👉 [Read the User Manual](https://user-manual-final.vercel.app/)
+
 ## 📂 Dataset
 
 - **Source**: Roboflow PPE Dataset  
@@ -71,4 +76,3 @@ GitHub: [Final Project Repo](https://github.com/AbdullahAboElHija/FinalProject)
 ---
 
 > **Note**: For best results, use a GPU-enabled machine for inference.
-
